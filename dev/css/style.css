@@ -1,0 +1,12 @@
+
+body {
+	background-color: #000;
+}
+
+
+/* Canvas */
+#app canvas {
+	left: 0;
+	position: absolute;
+	top: 0;
+}
